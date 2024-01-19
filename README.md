@@ -25,7 +25,6 @@ title = {Random epipolar constraint loss functions for supervised optical flow e
 journal = {Pattern Recognition},  
 volume = {148},  
 pages = {110141},  
-year = {2024},  
-issn = {0031-3203},  
+year = {2024},   
 doi = {https://doi.org/10.1016/j.patcog.2023.110141},  
 }
